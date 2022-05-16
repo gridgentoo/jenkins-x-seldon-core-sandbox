@@ -1,6 +1,6 @@
 dill==0.3.2
 click==7.1.2
-numpy==1.19.1
+numpy==1.21.0
 spacy==2.3.2
 en-core-web-sm==2.3.1
 
